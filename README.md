@@ -1,7 +1,7 @@
 # Cloud-practice
 
 
-# Crowdsourced Delivery System 🚚
+# Crowdsourced Delivery System
 
 A microservice-based solution for processing delivery orders and automatically assigning available couriers. This project is developed as part of the CloudTech course and includes the following core components: `Orders`, `Couriers`, `Deliveries`, `Transactions`, and `Clients`.
 
@@ -69,7 +69,7 @@ The ERD diagram and Services Communication Diagram are also available in the `Do
 
 ## API Endpoints
 
-### 📦 Orders
+### Orders
 
 #### `GET /orders/{id}`  
 Returns order details by ID.
@@ -101,7 +101,7 @@ Creates a new delivery order.
 
 ---
 
-### 🔧 System Endpoints
+### System Endpoints
 
 #### `GET /ping`  
 Returns `"pong"` — simple liveness check.
