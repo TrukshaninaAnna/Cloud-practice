@@ -55,8 +55,13 @@ A microservice-based solution for processing delivery orders and automatically a
 ---
 
 ## Diagrams
+ERD diagram
+![DB](https://github.com/user-attachments/assets/ad97b621-e385-4557-9fed-23e73f6e1302)
 
-The ERD diagram and Services Communication Diagram are available in the `Docs` folder.
+Services Communication Diagram
+![Services](https://github.com/user-attachments/assets/d8b75f4d-2e88-4b56-8dd7-f28be2adb6dc)
+
+The ERD diagram and Services Communication Diagram are also available in the `Docs` folder.
 
 ---
 
