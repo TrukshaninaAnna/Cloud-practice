@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdersService", "OrdersService\OrdersService.csproj", "{630F4863-7711-4005-BA4B-2076EB27CF0D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9650E9E4-ECBF-4E7C-844D-A5C0E63DD13E}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{630F4863-7711-4005-BA4B-2076EB27CF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630F4863-7711-4005-BA4B-2076EB27CF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630F4863-7711-4005-BA4B-2076EB27CF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630F4863-7711-4005-BA4B-2076EB27CF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {184B3ED9-4A4D-4DC8-89D5-2967BD20A01B}
+	EndGlobalSection
+EndGlobal
